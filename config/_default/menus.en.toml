@@ -7,18 +7,9 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
-pageRef = "/about"
+name = "Strategy Career"
+pageRef = "/Strategy-Career"
 weight = 2
-
-[[main]]
-name = "Elements"
-pageRef = "/elements"
-weight = 3
-
-[[main]]
-weight = 4
-name = "Pages"
 
 [[main]]
 parent = "Pages"
