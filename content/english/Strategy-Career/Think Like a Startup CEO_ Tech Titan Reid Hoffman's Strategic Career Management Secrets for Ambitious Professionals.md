@@ -121,8 +121,9 @@ This unexpected encounter with Brian Epstein proved to be the breakout opportuni
 3. Lesson 3: Mastering Intelligent Network Building – Techniques for Strategic Connections
 4. Lesson 4: Plan to Adapt – Mastering ABZ Planning for Career Flexibility
 5. Lesson 5: Pursue Breakout Opportunities – Strategies to Identify and Capitalize on Career Milestones
+
 # Reference
-https://en.wikipedia.org/wiki/Reid_Hoffman
-https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B0050DIWHU
-https://www.mindtools.com/amtbj63/swot-analysis
-https://greylock.com/reid-hoffman/reid-hoffman-abzplanning/
+- https://en.wikipedia.org/wiki/Reid_Hoffman
+- https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B0050DIWHU
+- https://www.mindtools.com/amtbj63/swot-analysis
+- https://greylock.com/reid-hoffman/reid-hoffman-abzplanning/

@@ -32,7 +32,7 @@ This principle has its origins in the pioneering spirit of Bill Gross, an entrep
 This principle can be effectively applied to career development by emphasizing the importance of building exceptional skills and value that markedly set you apart from others in your field.
 Think of athletes training for the Olympics. Every competitor is outstanding, but those who win medals have gone beyond the basic training; they've refined their technique, mastered psychological strategies, and optimized every possible aspect of their performance to stand out remarkably. 
 Similarly, in your career, being '10x better' means you've honed your skills to such an elite level that your capabilities are undeniable and highly sought after.
-#### 🤔 **How to Apply to My Career?**
+#### 🤔 How to Apply to My Career?
 
 - **Seek Challenging Projects**: Volunteer for challenging projects at work that require you to stretch your skills. This not only builds your capabilities but also makes you more visible in your organization.
 - **Continuous Learning**: Engage in ongoing education, whether through formal courses, online learning platforms like Coursera or Udemy, or through on-the-job training. Focus on areas that are highly valued in your industry and seek to become an expert in a specific niche.
@@ -54,24 +54,25 @@ _These loops are reinforcing — having one of each affords you more of the othe
 ![](https://cdn.nlark.com/yuque/0/2024/png/2907795/1717576764698-bacac7cd-00cb-4aa2-be8f-fe78cceaa2b0.png#averageHue=%23cac9c8&clientId=u97e0ee2f-e234-4&from=paste&id=uda4d44c3&originHeight=1093&originWidth=1456&originalType=url&ratio=2&rotation=0&showTitle=false&status=done&style=none&taskId=u579ba3ad-1b6d-4fd2-845f-48da209ba68&title=)
 In the business world, companies focus on creating sustainable growth through loops, which means making sure that their customer base not only stays engaged but also helps attract new customers. This idea can be effectively applied to career development, where building loops means establishing a self-sustaining cycle of professional growth and opportunity.
 For instance, as you get fitter, your increased energy and capability may lead you to participate in community fitness events, where you meet others who motivate you to try new exercises or sports. This new network and its influences can lead you to further enhance your fitness levels, creating a loop of continuous improvement and community engagement.
-#### 🤔 **How to Apply to My Career?**
+#### 🤔 How to Apply to My Career?
 
 - **Identify Core Skills and Expand Them:** Start by identifying your core competencies and consider how you can expand or deepen these skills to make them more marketable and unique. This could involve taking advanced courses, obtaining certifications, or engaging in self-directed projects that challenge you and grow your skill set.
-- **Showcase Your Expertise:**Once you have developed your skills, it’s crucial to showcase them. This can be done through various platforms like LinkedIn, industry conferences, workshops, or blogging. By publicly displaying your expertise, you attract the attention of peers, recruiters, and industry leaders.
-- **Leverage**** Recognition to Build Networks:** Recognition can open doors to new opportunities. Use any recognition or visibility you gain to further build your professional network. Connect with people who reach out after seeing your work, and engage with them by sharing ideas and offering help where possible.
+- **Showcase Your Expertise:** Once you have developed your skills, it’s crucial to showcase them. This can be done through various platforms like LinkedIn, industry conferences, workshops, or blogging. By publicly displaying your expertise, you attract the attention of peers, recruiters, and industry leaders.
+- **Leverage Recognition to Build Networks:** Recognition can open doors to new opportunities. Use any recognition or visibility you gain to further build your professional network. Connect with people who reach out after seeing your work, and engage with them by sharing ideas and offering help where possible.
 - **Translate Opportunities into Strategic Career Moves:** Use the expanded network and recognition to access new career opportunities. This could mean a new job, a promotion, or collaborative projects that can further enhance your skills and reputation.
 - **Reflect, Learn, and Iterate:** With each loop, take the time to reflect on what you’ve learned, how you’ve grown, and what you can improve. Use this insight to refine your approach and start the next loop with enhanced strategies.
 ### Lesson 3: Overcoming the Networker's Dilemma: Strategies for Effective Networking
-_Separately, prematurely building a wide network can have adverse effects on some people as well. Consider “The Networker’s Dilemma”: People are too well networked and are thus, again, afraid to take risks and look dumb. Or they’re just spending too much time trying to maintain an existing network that they don’t focus on value creation. Optimizing on building your network before having a rare & valuable skill/knowledge base is like focusing on growth before product-market fit. Nail the product first._
-_The best examples are people who’ve spent time building skills & expertise, and then can build the network instantly, versus the people who build their network first, and then try to bolt skills / expertise on top. It can be done, but it’s harder._
-_In other words, focusing on knowledge & skills enables you to most quickly gain the other loops — capital, network, and legibility. Knowledge and skills will advance all the other loops and bring you more optionality, autonomy, and durability. _
+> - _Separately, prematurely building a wide network can have adverse effects on some people as well. Consider “The Networker’s Dilemma”: People are too well networked and are thus, again, afraid to take risks and look dumb. Or they’re just spending too much time trying to maintain an existing network that they don’t focus on value creation. Optimizing on building your network before having a rare & valuable skill/knowledge base is like focusing on growth before product-market fit. Nail the product first._
+> - _The best examples are people who’ve spent time building skills & expertise, and then can build the network instantly, versus the people who build their network first, and then try to bolt skills / expertise on top. It can be done, but it’s harder._
+> - _In other words, focusing on knowledge & skills enables you to most quickly gain the other loops — capital, network, and legibility. Knowledge and skills will advance all the other loops and bring you more optionality, autonomy, and durability. _
+
 The concept of 'The Networker's Dilemma' addresses a common pitfall in professional development: prioritizing extensive networking over cultivating deep, valuable skills and knowledge. 
 Consider a fast-growing tree with shallow roots. While the tree quickly reaches impressive heights, its shallow root system leaves it vulnerable to storms and droughts. Similarly, a professional who focuses primarily on expanding their network without developing a solid base of skills and knowledge may find themselves unprepared for challenges or unable to capitalize on opportunities effectively. 
-#### 🤔 **How to Apply to My Career?**
+#### 🤔 How to Apply to My Career?
 **To avoid the Networker's Dilemma, you should:**
 
 - **Prioritize Skill Development:** Focus first on acquiring and refining skills that are in demand and valued highly within your industry.
-- **Strategic Networking: **Engage in networking that allows you to both demonstrate and enhance your skills. For example, participate in professional groups, conferences, and workshops that are relevant to your skill set.
+- **Strategic Networking:** Engage in networking that allows you to both demonstrate and enhance your skills. For example, participate in professional groups, conferences, and workshops that are relevant to your skill set.
 - **Balance and Integration**: Integrate networking with personal development. Use your network to gain insights, feedback, and further learning opportunities that can deepen your expertise.
 # **Key Takeaways: Transform Your Career with Product-Thinking**
 
@@ -82,12 +83,12 @@ Consider a fast-growing tree with shallow roots. While the tree quickly reaches 
 - _Brand / Legibility (ability for your skills/assets to be widely recognizable)_
 - _Unique Network Access/Strength_
 1. Focusing on knowledge & skills enables you to most quickly gain the other loops — capital, network, and legibility. Knowledge and skills will advance all the other loops and bring you more optionality, autonomy, and durability. 
-# **Reference**
-https://www.linkedin.cn/incareer/in/eriktorenberg
-https://eriktorenberg.substack.com/p/see-your-career-as-a-product
-https://www.turpentine.co/
-https://www.beondeck.com/blog
-https://www.villageglobal.vc/
-https://www.producthunt.com/
-https://www.productteacher.com/articles/the-problem-of-10x-better
-https://www.goto.com/
+# Reference
+- https://www.linkedin.cn/incareer/in/eriktorenberg
+- https://eriktorenberg.substack.com/p/see-your-career-as-a-product
+- https://www.turpentine.co/
+- https://www.beondeck.com/blog
+- https://www.villageglobal.vc/
+- https://www.producthunt.com/
+- https://www.productteacher.com/articles/the-problem-of-10x-better
+- https://www.goto.com/
