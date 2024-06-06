@@ -28,6 +28,9 @@
 {{ partialCached "custom-script.html" . }}
 
 
+<meta name="referrer" content="no-referrer">
+
+
 <!-- google analytics -->
 {{ if and site.Config.Services.GoogleAnalytics.ID (ne site.Config.Services.GoogleAnalytics.ID "G-MEASUREMENT_ID") }}
   {{ template "_internal/google_analytics.html" . }}
