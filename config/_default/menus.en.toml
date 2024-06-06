@@ -6,15 +6,11 @@ name = "Home"
 pageRef = "/"
 weight = 1
 
-[[main]]
-name = "📍Discover You Core "
-pageRef = "/Strategy-Career"
-weight = 2
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-pageRef = "/blog"
+name = "🌲 Craft Your Ecosystem"
+pageRef = "/career"
+weight = 2
 
 [[main]]
 parent = "Pages"
